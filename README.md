@@ -1,2 +1,8 @@
-# BME450-final
-Final neural network project for BME 450 by Andrew Frels and Caitlyn Schmeiser.
+# Title
+“My super-cool project”
+## Team members
+NameA (GitHubUserA), NameB (GitHubUserB)
+## Project decription
+Max ½ page. Include some information on:
+- what dataset you plan to use
+- goal of the project. 
